@@ -23,3 +23,12 @@ GNU General Public License v3.0
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
+## 介绍
+
+这是一个学习项目，对于游戏来说完成度还远远不够。
+整个游戏使用WPF框架来完成的。安装.NET框架后即可运行，同时提供运行时打包版本。
+
+## 玩法
+
+游戏的玩法和平常很常见的弹幕射击游戏相似，使用鼠标或者键盘来进行控制(可以鼠标/键盘进行切换，具体可在设置界面中进行设置)。
+当游戏进行到一定程度时，例如BOSS战最终胜利。游戏会结束。
