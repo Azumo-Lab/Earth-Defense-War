@@ -1,8 +1,6 @@
 # Earth-Defense-War(地球保卫战)
 
-地球保卫战 是一款开源游戏。
-
-请务必遵守开源协议。
+地球保卫战 是一款开源游戏，请务必遵守开源协议。
 
 GNU General Public License v3.0
 
