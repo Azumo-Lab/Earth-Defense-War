@@ -1,6 +1,10 @@
 # Earth-Defense-War(地球保卫战)
 
-地球保卫战 是一款开源游戏，请务必遵守开源协议。
+地球保卫战 是一款开源游戏，请务必仔细阅读并遵守开源协议。
+
+游戏中的代码和其中的开源艺术作品适用不同的开源协议。
+
+其中开源的游戏代码适用于：
 
 GNU General Public License v3.0
 
@@ -21,6 +25,11 @@ GNU General Public License v3.0
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
+
+其中游戏中使用到的开源艺术作品适用于：
+
+GUN开源艺术作品协议
+
 ## 介绍
 
 这是一个学习项目，对于游戏来说完成度还远远不够。
