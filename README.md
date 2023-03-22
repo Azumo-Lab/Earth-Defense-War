@@ -31,6 +31,10 @@ GNU General Public License v3.0
 这里列举了分支实现
 
 
+|版本名称|版本介绍|版本分支|
+|  ----  | ----  | ----  |
+|原始版本|使用.Net Core 3.1的原始版本|[进入分支](https://github.com/Azumo-Lab/Earth-Defense-War/tree/EDW-2020.4-NETCore3.1)|
+|Unity版本|使用Unity的版本，相当于Unity的学习项目|[进入分支](https://github.com/Azumo-Lab/Earth-Defense-War/tree/EDW-2022.12-Unity)|
 
 ## 玩法
 
