@@ -43,4 +43,4 @@ GNU General Public License v3.0
 
 ## 游戏部分截图
 
-
+![游戏运行截图](Screenshot/Game01.PNG)
